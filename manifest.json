@@ -1,0 +1,21 @@
+{
+  "name": "__MSG_name__",
+  "description": "__MSG_desc__",
+  "version": "1",
+  "app": {
+    "launch": {
+      "local_path": "main.html"
+    }
+  },
+  "icons": {
+    "16": "Wikinews-logo-16.png",
+    "128": "Wikinews-logo.png"
+  },
+  "default_locale": "en",
+  "permissions": [
+    "http://*.wikinews.org/*",
+    "unlimitedStorage",
+    "notifications"
+  ],
+  "background_page" : "background.html"
+}

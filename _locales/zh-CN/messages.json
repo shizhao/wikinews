@@ -1,0 +1,30 @@
+{
+  "name": {
+    "message": "维基新闻",
+    "description": "name"
+  },
+  "desc": {
+    "message": "维基新闻，任何人都可以撰写的自由新闻源。维基媒体基金会运营。",
+    "description": "description"
+  },
+  "notice": {
+    "message": "你有新消息。",
+    "description": "notification"
+  },
+  "bnotice": {
+    "message": "Notice:",
+    "description": "notification"
+  },
+  "siteurl": {
+    "message": "http://zh.wikinews.org/",
+    "description": "url"
+  },
+  "siteurl1": {
+    "message": "http://zh.wikinews.org/zh-cn/",
+    "description": "main page url"
+  },
+  "lang": {
+    "message": "zh-CN",
+    "description": "lang"
+  }
+}

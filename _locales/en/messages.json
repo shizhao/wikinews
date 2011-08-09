@@ -1,0 +1,30 @@
+{
+  "name": {
+    "message": "Wikinews",
+    "description": "name"
+  },
+  "desc": {
+    "message": "Wikinews, the free news source you can write! Run by the Wikimedia Foundation.",
+    "description": "description"
+  },
+  "notice": {
+    "message": "You have new messages.",
+    "description": "notification"
+  },
+  "bnotice": {
+    "message": "Notice:",
+    "description": "notification"
+  },
+  "siteurl": {
+    "message": "http://en.wikinews.org/",
+    "description": "main page url"
+  },
+  "siteurl1": {
+    "message": "http://en.wikinews.org/",
+    "description": "main page url"
+  },
+  "lang": {
+    "message": "en",
+    "description": "lang"
+  }
+}
